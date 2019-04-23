@@ -1,0 +1,681 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MyAbsenceAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 350}}";
+			sepNavSelRange = "{464, 0}";
+			sepNavVisRange = "{0, 472}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MyAbsenceAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 507}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{85, 719}";
+			sepNavWindowFrame = "{{15, 183}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MyAbsenceApp */ = {
+		activeExec = 0;
+		executables = (
+			8C6DD50617D5975600EF1E1C /* MyAbsenceApp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C6DD50617D5975600EF1E1C /* MyAbsenceApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MyAbsenceApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MyAbsenceApp */,
+		);
+		breakpoints = (
+			8C8367B617D6449E00884F67 /* ASConnection.m:44 */,
+			8C8367DA17D646D700884F67 /* ASConnection.m:48 */,
+			8C8367DC17D646DB00884F67 /* ASConnection.m:37 */,
+			8C8367DE17D646DF00884F67 /* ASConnection.m:34 */,
+			8C8367E017D646E300884F67 /* ASConnection.m:30 */,
+			8C8367EC17D647A000884F67 /* LoginViewController.m:42 */,
+			8C8367EE17D647A100884F67 /* LoginViewController.m:45 */,
+			8C8367F017D647A100884F67 /* LoginViewController.m:43 */,
+			8C8DDAED17D6E7A7009B26B2 /* ASConnection.m:47 */,
+		);
+		codeSenseManager = 8C6DD51D17D5976300EF1E1C /* Code sense */;
+		executables = (
+			8C6DD50617D5975600EF1E1C /* MyAbsenceApp */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					690,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					768,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					535,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					894,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					820,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					856,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					840,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 399979832;
+			PBXWorkspaceStateSaveDate = 399979832;
+		};
+		perUserProjectItems = {
+			8C6DD62917D5CC8500EF1E1C /* PBXTextBookmark */ = 8C6DD62917D5CC8500EF1E1C /* PBXTextBookmark */;
+			8C6DD62A17D5CC8500EF1E1C /* PBXTextBookmark */ = 8C6DD62A17D5CC8500EF1E1C /* PBXTextBookmark */;
+			8C83671017D6227200884F67 /* PBXTextBookmark */ = 8C83671017D6227200884F67 /* PBXTextBookmark */;
+			8C83672417D62F2300884F67 /* PBXTextBookmark */ = 8C83672417D62F2300884F67 /* PBXTextBookmark */;
+			8C83678517D63DDE00884F67 /* PBXTextBookmark */ = 8C83678517D63DDE00884F67 /* PBXTextBookmark */;
+			8C8B5AEE17D73677002B1976 /* PBXTextBookmark */ = 8C8B5AEE17D73677002B1976 /* PBXTextBookmark */;
+			8C8B5AFE17D7371E002B1976 /* PBXTextBookmark */ = 8C8B5AFE17D7371E002B1976 /* PBXTextBookmark */;
+			8C8B5B1117D7480E002B1976 /* PBXTextBookmark */ = 8C8B5B1117D7480E002B1976 /* PBXTextBookmark */;
+			8C8B5B1217D7480E002B1976 /* PBXTextBookmark */ = 8C8B5B1217D7480E002B1976 /* PBXTextBookmark */;
+			8C8B5B1317D7480E002B1976 /* PBXTextBookmark */ = 8C8B5B1317D7480E002B1976 /* PBXTextBookmark */;
+			8C8B5B1417D7480E002B1976 /* PBXTextBookmark */ = 8C8B5B1417D7480E002B1976 /* PBXTextBookmark */;
+			8C8B5B1517D7480E002B1976 /* PBXTextBookmark */ = 8C8B5B1517D7480E002B1976 /* PBXTextBookmark */;
+			8C8B5B1617D7480E002B1976 /* PBXTextBookmark */ = 8C8B5B1617D7480E002B1976 /* PBXTextBookmark */;
+			8C8D5F7517D7072B00D8A7DD /* PBXTextBookmark */ = 8C8D5F7517D7072B00D8A7DD /* PBXTextBookmark */;
+			8CCD470217D71AB0005EEF20 /* PBXTextBookmark */ = 8CCD470217D71AB0005EEF20 /* PBXTextBookmark */;
+			8CCD470317D71AB0005EEF20 /* PBXTextBookmark */ = 8CCD470317D71AB0005EEF20 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C6DD51C17D5976300EF1E1C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MyAbsenceApp_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1058, 422}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	8C6DD50617D5975600EF1E1C /* MyAbsenceApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyAbsenceApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8C6DD51C17D5976300EF1E1C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C6DD51D17D5976300EF1E1C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C6DD56817D59A8300EF1E1C /* LoginViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 350}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{0, 642}";
+		};
+	};
+	8C6DD56917D59A8300EF1E1C /* LoginViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1157}}";
+			sepNavSelRange = "{2080, 0}";
+			sepNavVisRange = "{1759, 610}";
+			sepNavWindowFrame = "{{38, 162}, {750, 558}}";
+		};
+	};
+	8C6DD62917D5CC8500EF1E1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MyAbsenceAppAppDelegate.h */;
+		name = "MyAbsenceAppAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	8C6DD62A17D5CC8500EF1E1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MyAbsenceAppAppDelegate.m */;
+		name = "MyAbsenceAppAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 691;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 85;
+	};
+	8C6DD63D17D5D15C00EF1E1C /* DashBoardViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {713, 227}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 341}";
+		};
+	};
+	8C6DD63E17D5D15C00EF1E1C /* DashBoardViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 741}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 685}";
+		};
+	};
+	8C83670917D61B9600884F67 /* ASTools.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 399}}";
+			sepNavSelRange = "{443, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	8C83670A17D61B9600884F67 /* ASTools.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1314, 299}}";
+			sepNavSelRange = "{671, 0}";
+			sepNavVisRange = "{0, 799}";
+		};
+	};
+	8C83671017D6227200884F67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C83670917D61B9600884F67 /* ASTools.h */;
+		name = "ASTools.h: 17";
+		rLen = 0;
+		rLoc = 443;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	8C83671917D623CE00884F67 /* ASConnection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 390}}";
+			sepNavSelRange = "{359, 0}";
+			sepNavVisRange = "{173, 544}";
+		};
+	};
+	8C83671A17D623CE00884F67 /* ASConnection.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 806}}";
+			sepNavSelRange = "{1655, 0}";
+			sepNavVisRange = "{1383, 562}";
+			sepNavWindowFrame = "{{15, 183}, {750, 558}}";
+		};
+	};
+	8C83672417D62F2300884F67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C83670A17D61B9600884F67 /* ASTools.m */;
+		name = "ASTools.m: 16";
+		rLen = 0;
+		rLoc = 583;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 0;
+	};
+	8C83678517D63DDE00884F67 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MyAbsenceApp_Prefix.pch */;
+		name = "MyAbsenceApp_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	8C8367B617D6449E00884F67 /* ASConnection.m:44 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		functionName = "-connection:didFailWithError:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 44;
+		location = MyAbsenceApp;
+		modificationTime = 399970425.815339;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367DA17D646D700884F67 /* ASConnection.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = MyAbsenceApp;
+		modificationTime = 399970446.601875;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367DC17D646DB00884F67 /* ASConnection.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		functionName = "-connection:didReceiveResponse:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = MyAbsenceApp;
+		modificationTime = 399970438.3850829;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367DE17D646DF00884F67 /* ASConnection.m:34 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		functionName = "-connection:didReceiveData:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 34;
+		location = MyAbsenceApp;
+		modificationTime = 399970440.129388;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367E017D646E300884F67 /* ASConnection.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		functionName = "-postData:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 30;
+		location = MyAbsenceApp;
+		modificationTime = 399970437.412468;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367EC17D647A000884F67 /* LoginViewController.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C6DD56917D59A8300EF1E1C /* LoginViewController.m */;
+		functionName = "-onClick:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = MyAbsenceApp;
+		modificationTime = 399970432.1170171;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367EE17D647A100884F67 /* LoginViewController.m:45 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C6DD56917D59A8300EF1E1C /* LoginViewController.m */;
+		functionName = "-onClick:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 45;
+		location = MyAbsenceApp;
+		modificationTime = 399970436.86597;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8367F017D647A100884F67 /* LoginViewController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C6DD56917D59A8300EF1E1C /* LoginViewController.m */;
+		functionName = "-onClick:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = MyAbsenceApp;
+		modificationTime = 399970436.232928;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8C8B5AEE17D73677002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CCD472217D72E69005EEF20 /* StorageClass.h */;
+		name = "StorageClass.h: 15";
+		rLen = 0;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	8C8B5AFE17D7371E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C6DD56917D59A8300EF1E1C /* LoginViewController.m */;
+		name = "LoginViewController.m: 55";
+		rLen = 0;
+		rLoc = 2080;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 1759;
+	};
+	8C8B5B1117D7480E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CCD472317D72E69005EEF20 /* StorageClass.m */;
+		name = "StorageClass.m: 24";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 133;
+	};
+	8C8B5B1217D7480E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C83671917D623CE00884F67 /* ASConnection.h */;
+		name = "ASConnection.h: 16";
+		rLen = 0;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 173;
+	};
+	8C8B5B1317D7480E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		name = "ASConnection.m: 48";
+		rLen = 0;
+		rLoc = 1655;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 1383;
+	};
+	8C8B5B1417D7480E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C6DD63D17D5D15C00EF1E1C /* DashBoardViewController.h */;
+		name = "DashBoardViewController.h: 15";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	8C8B5B1517D7480E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C6DD63E17D5D15C00EF1E1C /* DashBoardViewController.m */;
+		name = "DashBoardViewController.m: 19";
+		rLen = 0;
+		rLoc = 684;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 390;
+	};
+	8C8B5B1617D7480E002B1976 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C6DD63E17D5D15C00EF1E1C /* DashBoardViewController.m */;
+		name = "DashBoardViewController.m: 13";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	8C8D5F7517D7072B00D8A7DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8C6DD56817D59A8300EF1E1C /* LoginViewController.h */;
+		name = "LoginViewController.h: 25";
+		rLen = 0;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 46;
+	};
+	8C8DDAED17D6E7A7009B26B2 /* ASConnection.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8C83671A17D623CE00884F67 /* ASConnection.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = MyAbsenceApp;
+		modificationTime = 399970440.506081;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8CCD46FE17D71992005EEF20 /* JSONKit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1433, 3276}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{8747, 2073}";
+		};
+	};
+	8CCD46FF17D71992005EEF20 /* JSONKit.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3449, 41288}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{176089, 1176}";
+		};
+	};
+	8CCD470217D71AB0005EEF20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CCD46FE17D71992005EEF20 /* JSONKit.h */;
+		name = "JSONKit.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2073;
+		vrLoc = 8747;
+	};
+	8CCD470317D71AB0005EEF20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CCD46FF17D71992005EEF20 /* JSONKit.m */;
+		name = "JSONKit.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 176089;
+	};
+	8CCD472217D72E69005EEF20 /* StorageClass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 250}}";
+			sepNavSelRange = "{282, 0}";
+			sepNavVisRange = "{0, 320}";
+		};
+	};
+	8CCD472317D72E69005EEF20 /* StorageClass.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 338}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{133, 280}";
+		};
+	};
+}

@@ -1,0 +1,323 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* MyAbsenceAppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MyAbsenceAppAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		8C6DD56B17D59A8300EF1E1C /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C6DD56917D59A8300EF1E1C /* LoginViewController.m */; };
+		8C6DD56C17D59A8300EF1E1C /* loginVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C6DD56A17D59A8300EF1E1C /* loginVC.xib */; };
+		8C6DD64017D5D15C00EF1E1C /* DashBoardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C6DD63E17D5D15C00EF1E1C /* DashBoardViewController.m */; };
+		8C6DD64117D5D15C00EF1E1C /* DashBoardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C6DD63F17D5D15C00EF1E1C /* DashBoardViewController.xib */; };
+		8C83670B17D61B9600884F67 /* ASTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C83670A17D61B9600884F67 /* ASTools.m */; };
+		8C83671B17D623CE00884F67 /* ASConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C83671A17D623CE00884F67 /* ASConnection.m */; };
+		8CCD472417D72E69005EEF20 /* StorageClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CCD472317D72E69005EEF20 /* StorageClass.m */; };
+		A40F220A17D94BC7001E12E8 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = A40F220917D94BC7001E12E8 /* JSONKit.m */; };
+		A48723D617D976C900F1B46B /* DashBoardTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = A48723D417D976C900F1B46B /* DashBoardTabBarController.m */; };
+		A48723D717D976C900F1B46B /* DashBoardTabBarController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A48723D517D976C900F1B46B /* DashBoardTabBarController.xib */; };
+		A497C41117D97B21009E36EE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A497C41017D97B21009E36EE /* UIKit.framework */; };
+		A497C41317D97B3E009E36EE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A497C41217D97B3E009E36EE /* Foundation.framework */; };
+		A497C41517D97B46009E36EE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A497C41417D97B46009E36EE /* CoreGraphics.framework */; };
+		A497C41A17D982BB009E36EE /* HarianViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A497C41817D982BB009E36EE /* HarianViewController.m */; };
+		A497C41B17D982BB009E36EE /* HarianViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A497C41917D982BB009E36EE /* HarianViewController.xib */; };
+		A497C41F17D982CC009E36EE /* BulananViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A497C41D17D982CC009E36EE /* BulananViewController.m */; };
+		A497C42017D982CC009E36EE /* BulananViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A497C41E17D982CC009E36EE /* BulananViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D3623240D0F684500981E51 /* MyAbsenceAppAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAbsenceAppAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* MyAbsenceAppAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAbsenceAppAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* MyAbsenceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyAbsenceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* MyAbsenceApp_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAbsenceApp_Prefix.pch; sourceTree = "<group>"; };
+		8C6DD56817D59A8300EF1E1C /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		8C6DD56917D59A8300EF1E1C /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		8C6DD56A17D59A8300EF1E1C /* loginVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = loginVC.xib; sourceTree = "<group>"; };
+		8C6DD63D17D5D15C00EF1E1C /* DashBoardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashBoardViewController.h; sourceTree = "<group>"; };
+		8C6DD63E17D5D15C00EF1E1C /* DashBoardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashBoardViewController.m; sourceTree = "<group>"; };
+		8C6DD63F17D5D15C00EF1E1C /* DashBoardViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DashBoardViewController.xib; sourceTree = "<group>"; };
+		8C83670917D61B9600884F67 /* ASTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASTools.h; sourceTree = "<group>"; };
+		8C83670A17D61B9600884F67 /* ASTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASTools.m; sourceTree = "<group>"; };
+		8C83671917D623CE00884F67 /* ASConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASConnection.h; sourceTree = "<group>"; };
+		8C83671A17D623CE00884F67 /* ASConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASConnection.m; sourceTree = "<group>"; };
+		8CCD472217D72E69005EEF20 /* StorageClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StorageClass.h; sourceTree = "<group>"; };
+		8CCD472317D72E69005EEF20 /* StorageClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StorageClass.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* MyAbsenceApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MyAbsenceApp-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A40F220817D94BC7001E12E8 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JSONKit.h; path = "../../../../Downloads/JSONKit-master/JSONKit.h"; sourceTree = "<group>"; };
+		A40F220917D94BC7001E12E8 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JSONKit.m; path = "../../../../Downloads/JSONKit-master/JSONKit.m"; sourceTree = "<group>"; };
+		A48723D317D976C900F1B46B /* DashBoardTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashBoardTabBarController.h; sourceTree = "<group>"; };
+		A48723D417D976C900F1B46B /* DashBoardTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashBoardTabBarController.m; sourceTree = "<group>"; };
+		A48723D517D976C900F1B46B /* DashBoardTabBarController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DashBoardTabBarController.xib; sourceTree = "<group>"; };
+		A497C41017D97B21009E36EE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A497C41217D97B3E009E36EE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A497C41417D97B46009E36EE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A497C41717D982BB009E36EE /* HarianViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HarianViewController.h; sourceTree = "<group>"; };
+		A497C41817D982BB009E36EE /* HarianViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HarianViewController.m; sourceTree = "<group>"; };
+		A497C41917D982BB009E36EE /* HarianViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HarianViewController.xib; sourceTree = "<group>"; };
+		A497C41C17D982CC009E36EE /* BulananViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BulananViewController.h; sourceTree = "<group>"; };
+		A497C41D17D982CC009E36EE /* BulananViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BulananViewController.m; sourceTree = "<group>"; };
+		A497C41E17D982CC009E36EE /* BulananViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BulananViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A497C41517D97B46009E36EE /* CoreGraphics.framework in Frameworks */,
+				A497C41317D97B3E009E36EE /* Foundation.framework in Frameworks */,
+				A497C41117D97B21009E36EE /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A40F220817D94BC7001E12E8 /* JSONKit.h */,
+				A40F220917D94BC7001E12E8 /* JSONKit.m */,
+				1D3623240D0F684500981E51 /* MyAbsenceAppAppDelegate.h */,
+				1D3623250D0F684500981E51 /* MyAbsenceAppAppDelegate.m */,
+				8C6DD56817D59A8300EF1E1C /* LoginViewController.h */,
+				8C6DD56917D59A8300EF1E1C /* LoginViewController.m */,
+				8C6DD56A17D59A8300EF1E1C /* loginVC.xib */,
+				8C6DD63D17D5D15C00EF1E1C /* DashBoardViewController.h */,
+				8C6DD63E17D5D15C00EF1E1C /* DashBoardViewController.m */,
+				8C6DD63F17D5D15C00EF1E1C /* DashBoardViewController.xib */,
+				8C83670917D61B9600884F67 /* ASTools.h */,
+				8C83670A17D61B9600884F67 /* ASTools.m */,
+				8C83671917D623CE00884F67 /* ASConnection.h */,
+				8C83671A17D623CE00884F67 /* ASConnection.m */,
+				8CCD472217D72E69005EEF20 /* StorageClass.h */,
+				8CCD472317D72E69005EEF20 /* StorageClass.m */,
+				A48723D317D976C900F1B46B /* DashBoardTabBarController.h */,
+				A48723D417D976C900F1B46B /* DashBoardTabBarController.m */,
+				A48723D517D976C900F1B46B /* DashBoardTabBarController.xib */,
+				A497C41717D982BB009E36EE /* HarianViewController.h */,
+				A497C41817D982BB009E36EE /* HarianViewController.m */,
+				A497C41917D982BB009E36EE /* HarianViewController.xib */,
+				A497C41C17D982CC009E36EE /* BulananViewController.h */,
+				A497C41D17D982CC009E36EE /* BulananViewController.m */,
+				A497C41E17D982CC009E36EE /* BulananViewController.xib */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* MyAbsenceApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				A497C41617D97B53009E36EE /* Frameworks */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* MyAbsenceApp_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* MyAbsenceApp-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		A497C41617D97B53009E36EE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A497C41017D97B21009E36EE /* UIKit.framework */,
+				A497C41217D97B3E009E36EE /* Foundation.framework */,
+				A497C41417D97B46009E36EE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* MyAbsenceApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MyAbsenceApp" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyAbsenceApp;
+			productName = MyAbsenceApp;
+			productReference = 1D6058910D05DD3D006BFB54 /* MyAbsenceApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MyAbsenceApp" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* MyAbsenceApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				8C6DD56C17D59A8300EF1E1C /* loginVC.xib in Resources */,
+				8C6DD64117D5D15C00EF1E1C /* DashBoardViewController.xib in Resources */,
+				A48723D717D976C900F1B46B /* DashBoardTabBarController.xib in Resources */,
+				A497C41B17D982BB009E36EE /* HarianViewController.xib in Resources */,
+				A497C42017D982CC009E36EE /* BulananViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* MyAbsenceAppAppDelegate.m in Sources */,
+				8C6DD56B17D59A8300EF1E1C /* LoginViewController.m in Sources */,
+				8C6DD64017D5D15C00EF1E1C /* DashBoardViewController.m in Sources */,
+				8C83670B17D61B9600884F67 /* ASTools.m in Sources */,
+				8C83671B17D623CE00884F67 /* ASConnection.m in Sources */,
+				8CCD472417D72E69005EEF20 /* StorageClass.m in Sources */,
+				A40F220A17D94BC7001E12E8 /* JSONKit.m in Sources */,
+				A48723D617D976C900F1B46B /* DashBoardTabBarController.m in Sources */,
+				A497C41A17D982BB009E36EE /* HarianViewController.m in Sources */,
+				A497C41F17D982CC009E36EE /* BulananViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MyAbsenceApp_Prefix.pch;
+				INFOPLIST_FILE = "MyAbsenceApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = MyAbsenceApp;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MyAbsenceApp_Prefix.pch;
+				INFOPLIST_FILE = "MyAbsenceApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = MyAbsenceApp;
+				TARGETED_DEVICE_FAMILY = 1;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MyAbsenceApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MyAbsenceApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
